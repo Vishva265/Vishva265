@@ -1,15 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishva+Valand+%F0%9F%91%8B;AI%2FML+%26+DevOps+Enthusiast;Building+AI-Powered+Systems+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=24\&pause=1200\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Vishva+Valand;DevOps+Engineer+in+Progress;AI+%2F+ML+Explorer+%C2%B7+Full-Stack+Developer;Cloud+%C2%B7+CI%2FCD+%C2%B7+Terraform+%C2%B7+Docker;Building+Real-World+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+### 💻 Computer Science Undergraduate | AI/ML & DevOps Enthusiast
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishva-valand-668791298">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vishva265">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vishva-valand-668791298/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:valandvishva914@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265)
-![Profile Views](https://komarev.com/ghpvc/?username=Vishva265\&style=for-the-badge\&color=58A6FF\&label=PROFILE+VIEWS)
+</div>
+
+<p align="center">
+  <a href="https://github.com/Vishva265">
+    <img src="https://komarev.com/ghpvc/?username=Vishva265&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+  </a>
+</p>
+
+
 
 </div>
 
@@ -21,22 +33,67 @@
 
 ```python
 class Vishva:
-    role       = "DevOps Engineer in Progress"
-    interests  = ["DevOps", "Cloud", "AI/ML", "Full-Stack Development"]
+
+    role = "AI/ML & DevOps Engineer in Progress"
+
+    interests = [
+        "AI/ML",
+        "Generative AI",
+        "LLMs",
+        "AI Agents",
+        "DevOps",
+        "Cloud"
+    ]
 
     focus = {
-        "devops"   : ["Docker", "CI/CD", "Terraform", "Linux", "Git"],
-        "backend"  : ["Node.js", "NestJS", "REST APIs", "PostgreSQL"],
-        "frontend" : ["React", "Next.js", "JavaScript", "TypeScript"],
-        "ai_ml"    : ["Python", "Machine Learning", "Artificial Intelligence"],
+        "ai_ml": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "LLMs",
+            "AI Agents"
+        ],
+
+        "ai_tools": [
+            "LangChain",
+            "MCP",
+            "FastMCP",
+            "Google Gemini API",
+            "OR-Tools"
+        ],
+
+        "devops": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Terraform",
+            "AWS",
+            "GitHub Actions"
+        ],
+
+        "backend": [
+            "FastAPI",
+            "Node.js",
+            "REST APIs",
+            "PostgreSQL"
+        ],
+
+        "frontend": [
+            "React",
+            "Next.js",
+            "JavaScript",
+            "TypeScript"
+        ]
     }
 
-    builds     = "Real-world applications and automation workflows"
-    currently  = "Expanding my skills in AI/ML and Cloud"
-    goal       = "Build scalable systems and production-ready solutions"
+    builds = "AI-powered applications and automation workflows"
+
+    currently = "Exploring LLMs, AI Agents, MCP and Cloud"
+
+    goal = "Build intelligent and production-ready systems"
 ```
 
-> *From writing code to automating deployments — continuously learning, building, and improving.*
+> *Building AI systems, automating infrastructure, and continuously learning. 🚀*
 
 ---
 
@@ -46,25 +103,105 @@ class Vishva:
 
 <div align="center">
 
+### 🚢 QUAY — Container Congestion Predictor & Port Operations Optimiser
+
+</div>
+
+```text
+An ML-based port operations platform designed to predict congestion
+before queues form and generate executable 72-hour berth and crane
+scheduling plans.
+
+Uses vessel schedules, weather, yard stock and crane availability
+to generate congestion forecasts and operational plans.
+
+ML predicts → OR-Tools schedules → Operators approve.
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_QUAY_GITHUB_LINK)
+
+---
+
+<div align="center">
+
+### 🐛 BugScout — AI Security Testing Platform
+
+</div>
+
+```text
+An AI-powered security testing platform that analyzes
+authorized web applications and identifies potential
+security vulnerabilities.
+
+Uses multiple AI agents for scanning, vulnerability
+detection, verification and report generation.
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-AI-purple?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/BugScout)
+
+---
+
+<div align="center">
+
+### 🤖 Multi-Tool DevOps Agent & MCP Server
+
+</div>
+
+```text
+An AI-powered DevOps troubleshooting agent that connects
+Docker and Kubernetes tools through natural-language queries.
+
+The LangChain agent dynamically selects the required tools
+to inspect containers, pods, events and failures.
+
+Also includes a FastMCP server that exposes Kubernetes
+tools to MCP-compatible AI clients.
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-412991?style=flat-square)
+![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_MCP_GITHUB_LINK)
+
+---
+
+<div align="center">
+
 ### 🎬 Netflix DevOps CI/CD
 
 </div>
 
 ```text
 A full-stack Netflix clone transformed into a hands-on DevOps project.
-The repository includes separate client/server applications, Docker Compose,
-GitHub Actions workflows and Terraform infrastructure.
+
+The repository includes separate client/server applications,
+Docker Compose, GitHub Actions workflows and Terraform infrastructure.
 
 Focus: containerization, CI/CD automation, infrastructure as code,
-cloud deployment and DevOps practices.
+cloud deployment and Kubernetes.
 ```
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Infrastructure as Code](https://img.shields.io/badge/IaC-844FBA?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/Netflix-DevOps-CICD)
 
@@ -81,15 +218,14 @@ A full-stack ERP and work management platform built to manage
 projects, workflows and organizational operations.
 
 Built with modern frontend and backend architecture with
-database integration, APIs and containerized development.
+database integration, REST APIs and containerized development.
 ```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/OneSync)
 
@@ -97,182 +233,83 @@ database integration, APIs and containerized development.
 
 <div align="center">
 
-### 🎓 MockVeda — Mock Interview Platform
+### 🎓 MockVeda — AI Mock Interview Platform
 
 </div>
 
 ```text
-A full-stack project focused on mock interview preparation,
-designed to provide an interactive environment for practicing
-technical and interview skills.
+An AI-powered mock interview platform designed to simulate
+technical interviews and provide automated feedback.
 
-Part of my journey into building AI-powered applications
-and exploring practical AI/ML integrations.
+Combines authentication, AI-generated questions,
+interview evaluation and database-backed user sessions.
 ```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full--Stack-61DAFB?style=flat-square\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/MockVeda)
 
 ---
 
-<div align="center">
-
-### 🐛 BugScout
-
-</div>
-
-```text
-A project exploring software bug detection and analysis
-as part of my transition into AI/ML-focused development.
-
-Currently evolving as I continue experimenting with
-AI, machine learning and intelligent developer tools.
-```
-
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/BugScout)
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-### 💻 Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### ⚙️ Backend & Full Stack
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-### 🗄️ Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🤖 AI / ML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-412991?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+### ⚙️ Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishva265&theme=tokyo-night&hide_border=true&area=true&custom_title=Vishva's%20Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishva265&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva265&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishva265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva265&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vishva265&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishva265/Vishva265/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishva265/Vishva265/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vishva265/Vishva265/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-<div align="center">
-
-```text
-☁️ DevOps & Cloud
-        ↓
-🔄 CI/CD Automation
-        ↓
-🏗️ Infrastructure as Code
-        ↓
-🐳 Docker & Containerization
-        ↓
-🤖 Artificial Intelligence
-        ↓
-🧠 Machine Learning
-        ↓
-🚀 Production-Ready Applications
-```
-
-</div>
-
----
-
-## 💡 What I'm Interested In
-
-<div align="center">
-
-**☁️ DevOps**  ·  **🔄 CI/CD**  ·  **🏗️ Terraform**  ·  **🐳 Docker**
-
-**🤖 AI/ML**  ·  **💻 Full Stack**  ·  **⚙️ Backend**  ·  **☁️ Cloud**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishva_Valand-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vishva-valand-668791298/)
-
-[![Email](https://img.shields.io/badge/Email-valandvishva914%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:valandvishva914@gmail.com)
+![Snake animation](https://raw.githubusercontent.com/Vishva265/Vishva265/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -280,8 +317,8 @@ AI, machine learning and intelligent developer tools.
 
 <div align="center">
 
-### 🚀 Build • Automate • Learn • Deploy
+### 🚀 Let's Build Something Intelligent
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontColor=58A6FF&fontSize=18&fontAlignY=65&animation=fadeIn" width="100%"/>
+*Always learning. Always building. Always improving.*
 
 </div>
