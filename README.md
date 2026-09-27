@@ -125,7 +125,7 @@ ML predicts → OR-Tools schedules → Operators approve.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_QUAY_GITHUB_LINK)
+[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/bob-ai-hackathon-QUAY_Dynamics)
 
 ---
 
@@ -177,7 +177,7 @@ tools to MCP-compatible AI clients.
 ![MCP](https://img.shields.io/badge/MCP-412991?style=flat-square)
 ![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_MCP_GITHUB_LINK)
+[![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vishva265/Agentic-AI-Devops)
 
 ---
 
@@ -293,15 +293,7 @@ interview evaluation and database-backed user sessions.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishva265&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva265&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
@@ -309,7 +301,11 @@ interview evaluation and database-backed user sessions.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Vishva265/Vishva265/output/github-contribution-grid-snake-dark.svg)
+<img
+  src="https://raw.githubusercontent.com/Vishva265/Vishva265/output/github-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
